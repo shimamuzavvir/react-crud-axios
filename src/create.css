@@ -1,0 +1,12 @@
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    background-color: rgb(249, 238, 247);
+    height: 100vh;
+}
+h2{
+    padding: 10px;
+    color: blueviolet;
+}
